@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "",
+  "base_experience": 110,
+  "weight": 69,
+  "height": 7,
+  "url": "",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    {
+      "name": "hp",
+      "base_stat": 45,
+      "effort": 0
+    },
+    {
+      "name": "attack",
+      "base_stat": 45,
+      "effort": 0
+    },
+    {
+      "name": "defense",
+      "base_stat": 45,
+      "effort": 0
+    }
+  ],
+  "moves": [
+    {
+      "id": 56,
+      "name": "",
+      "url": "",
+      "accuracy": 80,
+      "power": 110
+    }
+  ]
+}
